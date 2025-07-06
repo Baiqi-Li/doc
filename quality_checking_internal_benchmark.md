@@ -47,7 +47,7 @@ When checking each sample, evaluate the following criteria:
   > 
   > **Answer:** "The launched object did not fall off the table."
 
-  ❌ This option doesn't logically address the action described in the question (removing an object).
+  ❌ This option doesn't logically address the action described in the question (removing an object). This answer does not logically follow from the question, which focuses on the consequences of removing an object. The selected option instead describes the state of a different object (“the launched object”), making it an illogical response.
 
 **d) Question Difficulty**
 - Evaluate whether questions can be reasonably answered based on the video content

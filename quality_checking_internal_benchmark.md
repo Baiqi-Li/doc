@@ -30,12 +30,24 @@ When checking each sample, evaluate the following criteria:
 - Check for grammatical errors and awkward phrasing
 
 **b) Video-Caption Alignment**
-- Verify that captions accurately align the video content
+- Verify that captions accurately align with the video content
 - Ensure there are no mismatches between what's shown and what's described
 
-**c) Answer Accuracy**
-- Confirm that the answers of question are correct results across both videos in a pair.
-- Check for consistency in question logic and expected answers
+**c) Question/Option/Answer Accuracy**
+- Confirm that the answers to the question are correct for both videos in each pair.
+- Check for consistency between the question logic and the provided options or expected answers.
+
+  **Example of Logical Inconsistency:**
+  
+  The option *"The launched object did not fall off the table"* is logically inconsistent with the following question scenario:
+
+  > **Question:** "What happened once the person removed an object from the tabletop?"
+  > 
+  > **Options:** ['No object was removed from the tabletop.', 'The launched object did not fall off the table.']
+  > 
+  > **Answer:** "The launched object did not fall off the table."
+
+  ❌ This option doesn't logically address the action described in the question (removing an object).
 
 **d) Question Difficulty**
 - Evaluate whether questions can be reasonably answered based on the video content
@@ -63,8 +75,8 @@ When checking each sample, evaluate the following criteria:
 
 When adding suggestions, please provide the following information:
 
-**a) Suggested Caption/Question**
-- Write your improved version of the caption or question
+**a) Suggested Caption/Question/Option/Answer**
+- Write your improved version of the caption or question/Option/Answer
 
 **b) Reason for Modification**
 - Provide a brief explanation of why you're suggesting this change

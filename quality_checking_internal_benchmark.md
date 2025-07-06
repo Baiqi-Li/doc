@@ -1,4 +1,6 @@
-# Internal Benchmark Instruction Guide
+# Internal Benchmark Instruction Guide:
+
+## Web link: http://xdrzbdsyyz.a.pinggy.link
 
 ## 1. User Registration
 - **Username**: Please use your real English name when registering

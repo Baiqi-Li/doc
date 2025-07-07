@@ -86,7 +86,7 @@ When adding suggestions, please provide the following information:
 - Keep explanations concise but informative
 
 ## 5. Mark "Needs Revision"
-- After identifying a problem and adding a suggestion, please check the **"Needs Revision"** box for that video pair.
+- After identifying a problem and adding suggestions, please check the **"Needs Revision"** box for that video pair.
 
 ---
 

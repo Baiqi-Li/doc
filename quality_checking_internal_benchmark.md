@@ -14,7 +14,7 @@
 
 ### 3.1 Review Task
 - **Daily Requirement**: Check 20 randomly selected samples each day
-- **Feedback**: Submit your findings and feedback to Baiqi
+- **Feedback**: Submit your findings and feedback to **Baiqi**
 
 ### 3.2 Content to Review
 In each video pair, please review the following components:
@@ -53,6 +53,9 @@ When checking each sample, evaluate the following criteria:
 - Evaluate whether questions can be reasonably answered based on the video content
 - Identify questions that may be too difficult or impossible to answer correctly
 
+**e) Video Quality**
+- Check whether the video is clear
+
 ## 4. Add Correction Suggestions
 
 ### 4.1 How to Use the Add Suggestion Feature
@@ -81,6 +84,9 @@ When adding suggestions, please provide the following information:
 **b) Reason for Modification**
 - Provide a brief explanation of why you're suggesting this change
 - Keep explanations concise but informative
+
+## 5. Mark "Needs Revision"
+- After identifying a problem and adding a suggestion, please check the **"Needs Revision"** box for that video pair.
 
 ---
 

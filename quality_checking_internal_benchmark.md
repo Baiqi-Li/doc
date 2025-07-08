@@ -82,14 +82,14 @@ The option *"The launched object did not fall off the table"* is logically incon
 - Find the caption text you want to modify.
 - Click the **"Add Suggestion"** button next to the caption.
 - A suggestion form will appear where you can enter your corrections.
-- Click **"Save"** to submit your suggestion.
+- Click **"Save"** to submit your suggestion. (Please do **not** click the "Apply" button.)
 - Click **"Delete"** to remove your suggestion if needed.
 
 **For Questions:**
 - Find the MCQ or Yes/No question you want to improve.
 - Click the **"Add Suggestion"** button for that question.
 - Fill out the suggestion form with your recommended changes.
-- Click **"Save"** to submit your suggestion.
+- Click **"Save"** to submit your suggestion. (Please do **not** click the "Apply" button.)
 - Click **"Delete"** to remove the suggestion if necessary.
 
 ### 4.2 What to Fill In
